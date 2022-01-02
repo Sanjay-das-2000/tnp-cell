@@ -1,0 +1,158 @@
+body{
+    margin : 0;
+    font-family: 'Montserrat';
+    /* font-size: 100px; */
+    text-align: center;
+}
+
+.logo{
+    border-radius: 10px;
+    background-color: dodgerblue;
+    height: 50px;
+    width: 50px;
+}
+.logo1{
+    border-radius: 10px;
+    background-color: dodgerblue;
+    height: 50px;
+    width: 50px;
+}
+.logo2{
+    border-radius: 10px;
+    background-color: dodgerblue;
+    height: 50px;
+    width: 50px;
+}
+
+.container0{
+    padding: 30px;
+    height: 270px;
+    /* width: 10px; */
+    background-color: lightblue;
+    /* text-align: left; */
+}
+.sub-container{
+    width: 30%;
+    text-align: left;
+    margin: 35px auto auto 120px;
+
+}
+.tu-logo{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    right: 90%;
+    top: 40px;
+}
+.container00{
+    border: 1px solid black;
+    width: 60%;
+    margin:50px 18%;
+    padding: 50px;
+}
+.container-fluid{
+    padding: 50px;
+}
+.container1{
+    /* margin-left: 70px; */
+    /* width: 44%; */
+    text-align: left;
+    /* padding-top: 50px; */
+}
+.container2{
+    /* margin-left: 550px; */
+    /* width: 44%; */
+    text-align: left;
+    /* padding-top: 30px; */
+}
+
+.image{
+    margin:60px;
+}
+
+.botttom-container{
+    background-color: blue;
+    padding: 4%;
+    color: floralwhite;
+    font-size: small;
+    overflow: auto;
+}
+.botttom-container p{
+    color: white;
+
+}
+.bc1{
+    float: left;
+    text-align: left;
+    width: 30%;
+}
+.bc2{
+    text-align: left;
+    width: 20%;
+    margin-top: 35px;   
+    float: right;
+}
+.bc3{
+    text-align: left;
+    width: 20%;
+    margin-top: 35px;
+    float: right;
+
+}
+.bc4{
+    text-align: left;
+    width: 20%;
+    margin-top: 35px;
+    float: right;
+
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: 	#000066;
+    overflow: hidden;
+    position: relative;
+    top: 80px;
+}
+li{
+    display: inline-block;
+    padding: 14px 16px;
+    /* float: left; */
+    /* border: .5px solid #ddd; */
+}
+a{
+    /* display: block; */
+    text-decoration: none;
+    color: white;
+    /* padding: 14px 16px; */
+
+}
+li:hover{
+    background-color: #0000e6;
+}
+a:hover{
+    color:#ffff;
+}
+
+.para{
+    margin: 0 0 30px;
+    font-size: 8px;
+
+}
+.header{
+    margin: 0;
+    font-size:20px;
+    font-weight:600;
+}
+.u-list1{
+    position: absolute;
+    top: 60px;
+    right: 30px;
+}
+p{
+    color: #40514E;
+    line-height: 1.6;
+    font-weight:600;
+
+}
